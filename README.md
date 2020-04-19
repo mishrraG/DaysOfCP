@@ -32,5 +32,9 @@ A small effort to document all of my coding activities <br>
   <li>Day 6:
    <ul>
     <li>Continuing with the <a href="https://www.hackerrank.com/contests/covid19-long-challenge/challenges">HackerRank Covid-19 long challenge</a>
-     <li>
    </ul>
+   <li>Day 7:
+    <ul>
+     <li>Continuing with <a href = "https://github.com/BedirT/ACM-ICPC-Preparation">ACM-ICPC-Preparation.</a>
+     <li>Started <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
+    </ul>
