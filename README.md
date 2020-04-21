@@ -38,3 +38,10 @@ A small effort to document all of my coding activities <br>
      <li>Continuing with <a href = "https://github.com/BedirT/ACM-ICPC-Preparation">ACM-ICPC-Preparation.</a>
      <li>Started <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
     </ul>
+    <li>Day 8:
+     <ul>
+      <li>Google Kickstart Round 1B problems Solved
+     </ul>
+     <li>Day 9:<ul>
+      <li>Started ACM-ICPC problem solving following Week2 <a href = "https://github.com/BedirT/ACM-ICPC-Preparation">ACM-ICPC-Preparation.</a>
+       </ul>
