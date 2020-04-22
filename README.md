@@ -48,3 +48,10 @@ A small effort to document all of my coding activities <br>
      <li>Day 9:<ul>
       <li>Started ACM-ICPC problem solving following Week2 <a href = "https://github.com/BedirT/ACM-ICPC-Preparation">ACM-ICPC-Preparation.</a>
        </ul>
+      <li>day 10:
+       <ul>
+        <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week02">ACM-ICPC Week 2</a>
+         <li>Commits to other repositories
+          <li>ChatBot enhancements deployed
+       </ul>
+       
