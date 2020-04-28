@@ -54,4 +54,29 @@ A small effort to document all of my coding activities <br>
          <li>Commits to other repositories
           <li>ChatBot enhancements deployed
        </ul>
-       
+        <li>Day 11:
+            <ul>
+                <li>
+                    <li>
+            </ul>
+            <li>Day 12:
+                <ul>
+                <li>
+                    <li>
+            </ul>
+            <li>Day 13:
+                <ul>
+                <li>
+                    <li>
+            </ul>
+            <li>Day 14:
+                <ul>
+                <li>
+                    <li>
+            </ul>
+            <li>Day 15:
+                <ul>
+                <li>
+                    <li>
+            </ul>
+            <li>Day 16:
