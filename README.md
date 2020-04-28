@@ -56,27 +56,26 @@ A small effort to document all of my coding activities <br>
        </ul>
         <li>Day 11:
             <ul>
-                <li>
-                    <li>
+                <li>Domination Game
+                    <li>Recommender Systems
             </ul>
             <li>Day 12:
                 <ul>
-                <li>
-                    <li>
+                <li>Domination Game
+                    <li>Recommender Systems
             </ul>
             <li>Day 13:
                 <ul>
-                <li>
-                    <li>
+                <li>Domination Game
+                    <li>Recommender Systems
             </ul>
             <li>Day 14:
                 <ul>
-                <li>
-                    <li>
+                <li>Domination Game(Completed)
+                    <li>Recommender Systems(Completed & Uploaded)
             </ul>
             <li>Day 15:
                 <ul>
-                <li>
-                    <li>
+                 <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a
             </ul>
-            <li>Day 16:
+              
