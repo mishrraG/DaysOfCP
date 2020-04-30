@@ -76,6 +76,15 @@ A small effort to document all of my coding activities <br>
             </ul>
             <li>Day 15:
                 <ul>
-                 <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a
+                 <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a>
+            </ul>
+                  <li>Day 16:
+                <ul>
+                 <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a>
+            </ul>
+                  <li>Day 17:
+                <ul>
+                 <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a>
+                  <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
             </ul>
               
