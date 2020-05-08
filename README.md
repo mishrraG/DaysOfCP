@@ -134,4 +134,8 @@ A small effort to document all of my coding activities <br>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
             </ul>
-              
+                            <li>Day 25:
+                             <ul>
+                              <li>3 of May Long Problems solved completely(COVID,CORUS,TRPSRT) and 2 solved partially(CHANDF,SORTVS)
+                             </ul>
+                             
