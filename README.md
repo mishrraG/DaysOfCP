@@ -137,5 +137,7 @@ A small effort to document all of my coding activities <br>
                             <li>Day 27:
                              <ul>
                               <li>3 of May Long Problems solved completely(COVID,CORUS,TRPSRT) and 2 solved partially(CHANDF,SORTVS)
+                               <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA02">Codechef DSA Learning </a>
+                                <li>Added templates for faster I/O in Java and CPP
                              </ul>
                              
