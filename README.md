@@ -92,49 +92,49 @@ A small effort to document all of my coding activities <br>
                  <li>Continuing the documentation of <a href="https://github.com/mishrraG/Recommendation-Engine">Recommender System</a>
                   <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
             </ul>
-                    <li>Day 18:
+                    <li>Day 19:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
             </ul>
-                     <li>Day 19:
+                     <li>Day 20:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
             </ul>
-                      <li>Day 20:
+                      <li>Day 21:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
                   <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
             </ul>
-                       <li>Day 21:
+                       <li>Day 22:
                 <ul>
                    <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
             </ul>
-                 <li>Day 22:
+                 <li>Day 23:
                 <ul>
                   <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
                    <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
             </ul>
-                         <li>Day 23:
+                         <li>Day 24:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
                    <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA01">Codechef DSA Learning </a>
                           </ul>
-            <li>Day 24:
+            <li>Day 25:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge             </ul>
-                           <li>Day 25:
+                           <li>Day 26:
                 <ul>
                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                   <li>CodeChef Long Challenge 
             </ul>
-                            <li>Day 25:
+                            <li>Day 27:
                              <ul>
                               <li>3 of May Long Problems solved completely(COVID,CORUS,TRPSRT) and 2 solved partially(CHANDF,SORTVS)
                              </ul>
