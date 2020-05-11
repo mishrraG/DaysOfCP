@@ -140,4 +140,13 @@ A small effort to document all of my coding activities <br>
                                <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA02">Codechef DSA Learning </a>
                                 <li>Added templates for faster I/O in Java and CPP
                              </ul>
+                             <li>Day 28:
+                              <ul>
+                               <li>Codechef May Long Challenge
+                                <li>Solved a few problems for <a href="https://www.codechef.com/LRNDSA02">Codechef DSA Learning </a>
+                              </ul>
+                              <li>Day 29:
+                               <ul>
+                                <li>
+                               </ul>
                              
