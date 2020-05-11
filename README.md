@@ -147,6 +147,8 @@ A small effort to document all of my coding activities <br>
                               </ul>
                               <li>Day 29:
                                <ul>
-                                <li>
+                                <li>Codechef May Long Challenge finished with a global rank of 1118 :/
+                                <li>Uploaded my solutions of the same <a href="https://github.com/mishrraG/100DaysOfCode/tree/master/Codechef%20May%20Long%202020">here</a>
+                                 <li>CHANDF and SORTVS are naive approaches to the problems , will be optimising the codes soon.
                                </ul>
                              
