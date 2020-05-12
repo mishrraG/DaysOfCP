@@ -155,6 +155,7 @@ A small effort to document all of my coding activities <br>
                                </ul>
                                <li> Day 30:
                                 <ul>
-                                 <li>
+                                 <li>Started working on a <a href ="https://github.com/DSC-KIIT/Find-Ride-App"> DSC Project</a>
+                                  <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                                 </ul>
                              
