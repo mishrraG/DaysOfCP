@@ -162,5 +162,6 @@ A small effort to document all of my coding activities <br>
                                 <ul> Day 31:
                                  <li> Codeforces problems solved
                                   <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
+                                   <li>Codeforces all solutions not added.
                                   
                              
