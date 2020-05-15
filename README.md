@@ -165,4 +165,13 @@ A small effort to document all of my coding activities <br>
                                    <li>Codeforces all solutions not added.
                                 </ul>
                                   <li> Day 31:
+                                   <ul>
+                                    <li><a href="https://github.com/DSC-KIIT/Find-Ride-App"> DSC KIIT </a>
+                                     <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week04">ACM-ICPC Week 4</a>
+                                   </ul>
+                                   <li> Day 32 : 
+                                    <ul>
+                                     <li>Solved Number Theory Problems 
+                                    </ul>
+                                    <li> Day 33 :
                              
