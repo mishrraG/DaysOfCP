@@ -174,4 +174,7 @@ A small effort to document all of my coding activities <br>
                                      <li>Solved Number Theory Problems 
                                     </ul>
                                     <li> Day 33 :
+                                     <ul>
+                                      <li>Google Kickstart Round B problems solved(3/4 done in 2 hours 20 minutes)
+                                     </ul>
                              
