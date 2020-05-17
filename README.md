@@ -180,6 +180,7 @@ A small effort to document all of my coding activities <br>
                                      <li> Day 34 :
                                       <ul>
                                        <li>Google KickStart Round C questions solved(3/4) and uploaded
+                                       <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week04">ACM-ICPC Week 4</a>
                                       </ul>
                                       <li>Day 35 :
                              
