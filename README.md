@@ -177,8 +177,9 @@ A small effort to document all of my coding activities <br>
                                      <ul>
                                       <li>Google Kickstart Round B problems solved(3/4 done in 1 hour and 35 minutes)
                                      </ul>
-                                     <li> Day 34 : 
-                                      
-                                      
-                                     
+                                     <li> Day 34 :
+                                      <ul>
+                                       <li>Google KickStart Round C questions solved(3/4) and uploaded
+                                      </ul>
+                                      <li>Day 35 :
                              
