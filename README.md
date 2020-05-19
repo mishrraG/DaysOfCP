@@ -183,4 +183,10 @@ A small effort to document all of my coding activities <br>
                                        <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week04">ACM-ICPC Week 4</a>
                                       </ul>
                                       <li>Day 35 :
+                                       <ul>
+                                        <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week05">ACM-ICPC Week 5 completed</a>
+                                       </ul>
+                                       <li>Day 36 :
+                                        <ul>
+                                         <li>
                              
