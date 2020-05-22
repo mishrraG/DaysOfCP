@@ -29,12 +29,12 @@ int main()
     {
         if(i.second>max.second)
         {
-            max=make_pair(i.first,i.second);
+            max={i.first,i.second};
         }
         else if(i.second==max.second)
         {
             if(i.first<max.first)
-                max=make_pair(i.first,i.second);
+                max={i.first,i.second};
         }
     }
     cout<<max.first<<"\n";
