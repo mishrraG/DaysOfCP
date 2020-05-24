@@ -188,5 +188,21 @@ A small effort to document all of my coding activities <br>
                                        </ul>
                                        <li>Day 36 :
                                         <ul>
-                                         <li>
+                                         <li>Codechef DSA Learning Week 3 started
+                                        </ul>
+                                        <li>Day 37 : 
+                                         <ul>
+                                          <li>Codechef DSA Learning Week 3 completed
+                                         </ul>
+                                         <li>Day 38 :
+                                          <ul>
+                                           <li>Codeforces problems updated
+                                           </li>
+                                          </ul>
+                                          <li>Day 39 :
+                                           <ul>
+                                            <li>Amaze Wit problem solutions added
+                                             <li>Codeforces practice problems added 
+                                           </ul>
+                                           <li>Day 40 : 
                              
