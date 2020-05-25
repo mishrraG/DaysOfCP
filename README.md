@@ -204,5 +204,14 @@ A small effort to document all of my coding activities <br>
                                             <li>Amaze Wit problem solutions added
                                              <li>Codeforces practice problems added 
                                            </ul>
-                                           <li>Day 40 : 
-                             
+                                           <li>Day 40 :
+                                            <ul>
+                                             <li>Codechef May CookOff
+                                              <li> Hackerrank PSIT challenge
+                                            </ul>
+                                            <li>Day 41 : 
+                                             <ul>
+                                             <li>String matchng algorithms (KMP , Hashing , Rabin Karp , Z )
+                                             </ul>
+                                             <li>Day 42 :
+                                              
