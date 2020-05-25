@@ -159,59 +159,60 @@ A small effort to document all of my coding activities <br>
                                   <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                                    <li>April Cookoff 2020 solutions added
                                 </ul>
-                                <ul> Day 31:
+                                <li>Day 31: 
+                                <ul>
                                  <li> Codeforces problems solved
                                   <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week03">ACM-ICPC Week 3</a>
                                    <li>Codeforces all solutions not added.
                                 </ul>
-                                  <li> Day 31:
+                                  <li> Day 32:
                                    <ul>
                                     <li><a href="https://github.com/DSC-KIIT/Find-Ride-App"> DSC KIIT </a>
                                      <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week04">ACM-ICPC Week 4</a>
                                    </ul>
-                                   <li> Day 32 : 
+                                   <li> Day 33 : 
                                     <ul>
                                      <li>Solved Number Theory Problems 
                                     </ul>
-                                    <li> Day 33 :
+                                    <li> Day 34 :
                                      <ul>
                                       <li>Google Kickstart Round B problems solved(3/4 done in 1 hour and 35 minutes)
                                      </ul>
-                                     <li> Day 34 :
+                                     <li> Day 35 :
                                       <ul>
                                        <li>Google KickStart Round C questions solved(3/4) and uploaded
                                        <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week04">ACM-ICPC Week 4</a>
                                       </ul>
-                                      <li>Day 35 :
+                                      <li>Day 36 :
                                        <ul>
                                         <li><a href="https://github.com/mishrraG/ACM-ICPC-Preparation/tree/master/Week05">ACM-ICPC Week 5 completed</a>
                                        </ul>
-                                       <li>Day 36 :
+                                       <li>Day 37 :
                                         <ul>
                                          <li>Codechef DSA Learning Week 3 started
                                         </ul>
-                                        <li>Day 37 : 
+                                        <li>Day 38 : 
                                          <ul>
                                           <li>Codechef DSA Learning Week 3 completed
                                          </ul>
-                                         <li>Day 38 :
+                                         <li>Day 39 :
                                           <ul>
                                            <li>Codeforces problems updated
                                            </li>
                                           </ul>
-                                          <li>Day 39 :
+                                          <li>Day 40 :
                                            <ul>
                                             <li>Amaze Wit problem solutions added
                                              <li>Codeforces practice problems added 
                                            </ul>
-                                           <li>Day 40 :
+                                           <li>Day 41 :
                                             <ul>
                                              <li>Codechef May CookOff
                                               <li> Hackerrank PSIT challenge
                                             </ul>
-                                            <li>Day 41 : 
+                                            <li>Day 42 : 
                                              <ul>
                                              <li>String matchng algorithms (KMP , Hashing , Rabin Karp , Z )
                                              </ul>
-                                             <li>Day 42 :
+                                             <li>Day 43 :
                                               
