@@ -214,6 +214,7 @@ A small effort to document all of my coding activities <br>
                                              <li>Day 43 :
                                               <ul>
                                                <li>Codeforces Round 644 (7/8 solved and uploaded)
-                                                <li>
+                                                <li>Codeforces Round 645 (Div 2) [rating +=363]
                                               </ul>
-                                               
+                                              <li>Day 44 :
+                                               <li>Codeforces Round 645 (Div 2) solutions updated
