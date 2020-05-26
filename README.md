@@ -212,4 +212,8 @@ A small effort to document all of my coding activities <br>
                                              <li>String matchng algorithms (KMP , Hashing , Rabin Karp , Z )
                                              </ul>
                                              <li>Day 43 :
-                                              
+                                              <ul>
+                                               <li>Codeforces Round 644 (7/8 solved and uploaded)
+                                                <li>
+                                              </ul>
+                                               
