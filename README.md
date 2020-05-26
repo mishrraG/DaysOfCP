@@ -217,4 +217,6 @@ A small effort to document all of my coding activities <br>
                                                 <li>Codeforces Round 645 (Div 2) [rating +=363]
                                               </ul>
                                               <li>Day 44 :
+                                               <ul>
                                                <li>Codeforces Round 645 (Div 2) solutions updated
+                                               </ul>
