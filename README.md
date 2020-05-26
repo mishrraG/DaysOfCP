@@ -1,8 +1,5 @@
 # 100DaysOfCode
 A small effort to document all of my coding activities <br>
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-![CircleCI](https://img.shields.io/circleci/project/github/ntkme/github-buttons/master.svg)
-![Codecov](https://img.shields.io/codecov/c/github/ntkme/github-buttons.svg)
 <ol>
 <li>Day 1 : 
 <ul>
