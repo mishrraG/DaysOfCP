@@ -220,3 +220,15 @@ A small effort to document all of my coding activities <br>
                                                <ul>
                                                <li>Codeforces Round 645 (Div 2) solutions updated
                                                </ul>
+                                               <li>Day 45 :
+                                                <ul>
+                                                 <li>Codeforces practice 
+                                                </ul>
+                                                <li>Day 46 :
+                                                 <ul>
+                                                  <li>Graph Algortithms Recap
+                                                 </ul>
+                                                 <li>Day 47 :
+                                                  <ul>
+                                                   <li>CC and CF practice (CC added)
+                                                  </ul>
