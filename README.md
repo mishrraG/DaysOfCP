@@ -232,3 +232,9 @@ A small effort to document all of my coding activities <br>
                                                   <ul>
                                                    <li>CC and CF practice (CC added)
                                                   </ul>
+                                                  <li>Day 48 :
+                                                   <ul>
+                                                    <li>CF problems added
+                                                     <li>CC problems added
+                                                      <li>ACM ICPC Week 6 started
+                                                   </ul>
