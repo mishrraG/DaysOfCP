@@ -238,3 +238,9 @@ A small effort to document all of my coding activities <br>
                                                      <li>CC problems added
                                                       <li>ACM ICPC Week 6 started
                                                    </ul>
+                                                   <li>Day 49 :
+                                                    <ul>
+                                                     <li>CF problems added
+                                                      <li>Hackerrank Hack the Interview (3/4 done)
+                                                    </ul>
+                                                 
