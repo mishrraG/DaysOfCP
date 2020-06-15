@@ -243,4 +243,10 @@ A small effort to document all of my coding activities <br>
                                                      <li>CF problems added
                                                       <li>Hackerrank Hack the Interview (3/4 done)
                                                     </ul>
-                                                 
+                                                    <li>Day 50 : 
+                                                     <ul>
+                                                      <li>Codechef June Long solutions added 
+                                                      <li>Codeforces solutions to be added
+                                                    </ul>
+                                                     <li>Day 51 :
+                                                      
