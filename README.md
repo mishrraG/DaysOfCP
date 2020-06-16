@@ -249,4 +249,7 @@ A small effort to document all of my coding activities <br>
                                                       <li>Codeforces solutions to be added
                                                     </ul>
                                                      <li>Day 51 :
-                                                      
+                                                      <ul>
+                                                       <li>CF Div3 (A,B,C) solved and updated
+                                                      </ul>
+                                                      <li>Day 52:
