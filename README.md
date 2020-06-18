@@ -253,3 +253,7 @@ A small effort to document all of my coding activities <br>
                                                        <li>CF Div3 (A,B,C) solved and updated
                                                       </ul>
                                                       <li>Day 52:
+                                                       <ul>
+                                                        <li>Codeforces Global Round 8 Solutions(A,B and C) upsolved/updated
+                                                       </ul>
+                                                       <li>Day 53 :
