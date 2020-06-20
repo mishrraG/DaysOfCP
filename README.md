@@ -257,3 +257,11 @@ A small effort to document all of my coding activities <br>
                                                         <li>Codeforces Global Round 8 Solutions(A,B and C) upsolved/updated
                                                        </ul>
                                                        <li>Day 53 :
+                                                        <ul>
+                                                        <li>Codechef February Long Solutions updated
+ </ul>
+                                                       <li>Day 54 :
+                                                        <ul>
+                                                         <li>Codeforces Div 2 (A,B and C)solved and updated
+ </ul>
+ <li>Day 55 :
