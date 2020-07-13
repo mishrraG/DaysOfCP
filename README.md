@@ -265,3 +265,9 @@ A small effort to document all of my coding activities <br>
                                                          <li>Codeforces Div 2 (A,B and C)solved and updated
  </ul>
  <li>Day 55 :
+  <ul>
+   <li>Updated Codechef July Long Solutions(6 fully solved and 1 partially solved)
+    <li>Updated LeetCode July Challenge
+     <li>CodeJam Round D solutions to be updated after upsolving
+   </ul>
+   <li>Day 56 :
