@@ -268,6 +268,12 @@ A small effort to document all of my coding activities <br>
   <ul>
    <li>Updated Codechef July Long Solutions(6 fully solved and 1 partially solved)
     <li>Updated LeetCode July Challenge
-     <li>CodeJam Round D solutions to be updated after upsolving
+     <li>KickStart Round D solutions to be updated after upsolving
    </ul>
    <li>Day 56 :
+    <ul>
+     <li>KickStart problem A solution updated.
+      <li>Codeforces Educational Round solutions updated.
+       <li>LeetCode Day 14/30 updated(one line solution xD).
+    </ul>
+    <li>Day 57 :
