@@ -277,3 +277,13 @@ A small effort to document all of my coding activities <br>
        <li>LeetCode Day 14/30 updated(one line solution xD).
     </ul>
     <li>Day 57 :
+     <ul>
+      <li>LeetCode Day 15/30 updated
+      <li>DP problems added
+     </ul>
+     <li>Day 58 :
+      <ul>
+        <li>Coder's Legacy Problems solved and updated
+        <li>CF Round 1353 problems updated
+      </ul>
+      <li>Day 59 :
