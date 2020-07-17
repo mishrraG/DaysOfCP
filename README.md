@@ -287,3 +287,9 @@ A small effort to document all of my coding activities <br>
         <li>CF Round 1353 problems updated
       </ul>
       <li>Day 59 :
+       <ul>
+        <li>DP problems solved 
+         <li>LeetCode solved and upsolved problems from Codechef
+          <li>Codeforces Div 3 problems solved and updated
+       </ul>
+       <li>Day 60 :
