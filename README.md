@@ -298,4 +298,16 @@ A small effort to document all of my coding activities <br>
           <li> LeetCode problem solved + updated
         </ul>
         <li>Day 61 :
+         <ul>
+          <li>CodeVibe 1.0 Contest solved all and updated(1st cp win ,probably more to come
+           <li>July Cook Off
+            <li>LeetCode problems solved+updated
+            </ul>
+         <li>Day 62 :
+          <ul>
+           <li>July CookOff poblems upsolved
+            <li>LeetCode problems solved + updated
+          </ul>
+          
+          
          
