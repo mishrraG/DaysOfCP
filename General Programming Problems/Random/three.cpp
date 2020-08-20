@@ -47,6 +47,5 @@ int32_t main()
 		sm += v;
 	}
 	cout << sm << '\n';
-}
-return 0;
+	return 0;
 }
