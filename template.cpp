@@ -1,6 +1,4 @@
 #include<bits/stdc++.h>
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
 using namespace std;
 
 #define ff              first
@@ -25,8 +23,6 @@ using namespace std;
 #define sortall(x)		sort(all(x))
 #define deb(x)			cout << #x << "="<< x << '\n'
 mt19937                 rng(chrono::steady_clock::now().time_since_epoch().count());
-
-typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> pbds;
 
 int power(int , unsigned int);
 int32_t main()
