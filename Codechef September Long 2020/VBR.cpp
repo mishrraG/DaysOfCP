@@ -1,0 +1,1 @@
+You could not live with your own failure. And where did that bring you ? Back to me.
