@@ -1,0 +1,1 @@
+Goli beta masti nahi
